@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FossilFuel", "TestApplication\FossilFuel.csproj", "{B0EFDAC5-2961-4BED-9ABA-8751CC70453A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0EFDAC5-2961-4BED-9ABA-8751CC70453A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0EFDAC5-2961-4BED-9ABA-8751CC70453A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0EFDAC5-2961-4BED-9ABA-8751CC70453A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0EFDAC5-2961-4BED-9ABA-8751CC70453A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09AC6928-1204-4D39-983A-7A2FE45565E2}
+	EndGlobalSection
+EndGlobal
