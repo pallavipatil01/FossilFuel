@@ -1,0 +1,6 @@
+c:\users\upatil\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe.config
+c:\users\upatil\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.exe
+c:\users\upatil\documents\visual studio 2015\Projects\TestApplication\TestApplication\bin\Debug\TestApplication.pdb
+c:\users\upatil\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.csprojResolveAssemblyReference.cache
+c:\users\upatil\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.exe
+c:\users\upatil\documents\visual studio 2015\Projects\TestApplication\TestApplication\obj\Debug\TestApplication.pdb

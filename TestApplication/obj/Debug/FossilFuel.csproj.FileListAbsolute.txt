@@ -1,0 +1,6 @@
+C:\Ajit\CSharp\TestApplication\TestApplication\obj\Debug\FossilFuel.csproj.CoreCompileInputs.cache
+C:\Ajit\CSharp\TestApplication\TestApplication\bin\Debug\FossilFuel.exe.config
+C:\Ajit\CSharp\TestApplication\TestApplication\bin\Debug\FossilFuel.exe
+C:\Ajit\CSharp\TestApplication\TestApplication\bin\Debug\FossilFuel.pdb
+C:\Ajit\CSharp\TestApplication\TestApplication\obj\Debug\FossilFuel.exe
+C:\Ajit\CSharp\TestApplication\TestApplication\obj\Debug\FossilFuel.pdb
